@@ -171,12 +171,6 @@ img { height: auto; }
 
 /* media queries for mobile, tablet, and small screen friendly websites */
 
-@media screen and (max-width:900px) {
-	html, body {
-		font-size: 90%; /* tiny fonts for tiny screens */
-	}
-}
-
 @media screen and (max-width:775px) {
 	.respond .row {
 		width: auto;
